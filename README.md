@@ -63,3 +63,23 @@ rm -rf EXIF\ Date\ Change.workflow
 ### Approve the installation
 
 ![Installation Prompt](./images/install.png)
+
+## Usage
+
+Using **Finder.app** you can right click on any file(s) or folder(s) with images to change the EXIF Date. Your original files will be updated with the new date:
+
+![choose a date and time through a native macOS prompt](./images/choose-date-time.png)
+
+You can press **ESC** to exit without making any changes. If you enter an incorrect date, you  will be provided an error message:
+
+![native macOS invalid date and time notification](./images/invalid.png)
+
+If the date validation step passes, when the date changing task begins, you will get the following notifications:
+
+![native macOS task begin notification](./images/started.png)
+
+![native macOS task end notification](./images/stopped.png)
+
+The notifications panel will retain a history of your edits:
+
+![native macOS notification history](./images/notifications.png)
