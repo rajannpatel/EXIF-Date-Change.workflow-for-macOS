@@ -10,7 +10,7 @@ Right click file(s) or folder(s) to perform an EXIF Date Change on one, or many 
 
 1. Install [homebrew](https://brew.sh/)
 1. Install [exiftool](https://exiftool.org/) with homebrew: `brew install exiftool`
-1. Users not running macOS 10.15 Catalina will need to install **zsh** with homebrew `brew install zsh`
+1. Users not running macOS 10.15 Catalina will need to install **zsh** with homebrew: `brew install zsh`
 
 ## Quickstart
 
