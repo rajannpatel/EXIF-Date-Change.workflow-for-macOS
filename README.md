@@ -1,6 +1,8 @@
 # EXIF Date Change.workflow for macOS
 
+Right click file(s) or folder(s) to perform an EXIF Date Change on one, or many files.
 
+![using EXIF Date Change](./images/right-click-folder.png)
 
 ---
 
@@ -8,12 +10,13 @@
 
 1. Install [homebrew](https://brew.sh/)
 1. Install [exiftool](https://exiftool.org/) with homebrew: `brew install exiftool`
+1. Users not running macOS 10.15 Catalina will need to install **zsh** with homebrew `brew install zsh`
 
 ## Quickstart
 
 1. download and unzip [EXIF Date Change.workflow.zip](https://github.com/rajannpatel/EXIF-Date-Change.workflow-for-macOS/raw/master/EXIF%20Date%20Change.workflow.zip)
 1. open **EXIF Date Change.workflow** with the default application: **Automator Installer.app**
-1. right click any folder(s) or file(s) to run the EXIF Date Change Quick Action.
+1. right click any folder(s) or file(s) and click **Quick Action** > **EXIF Date Change**
 
 ## Installation
 
